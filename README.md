@@ -1,4 +1,4 @@
-# Algorithms-CPP
+# Algorithms-C++
 This repository contains some basic algorithms written by me in C++.
 
 Some of the algorithms in this repository are :-
@@ -14,5 +14,7 @@ Some of the algorithms in this repository are :-
 9. Merge Sort
 10. Wave Sort
 11. Maximum Subarray Sum
+12. Prime Number (sieve of eratosthenes)
+13. Finding square root (using binary search)
 
 And many more!!
