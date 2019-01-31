@@ -3,14 +3,16 @@ This repository contains some basic algorithms written by me in C++.
 
 Some of the algorithms in this repository are :-
 
-Bubble Sort
-Insertion Sort
-Selection Sort
-Quick Sort
-Linear Search
-Binary Search
-Binary Search (using recursion)
-Tower of Hanoi (World famous recursion problem)
-Merge Sort
-Wave Sort
-Maximum Subarray Sum
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Quick Sort
+5. Linear Search
+6. Binary Search
+7. Binary Search (using recursion)
+8. Tower of Hanoi (World famous recursion problem)
+9. Merge Sort
+10. Wave Sort
+11. Maximum Subarray Sum
+
+And many more!!
