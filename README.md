@@ -17,5 +17,6 @@ Some of the algorithms in this repository are :-
 12. Prime Number (sieve of eratosthenes)
 13. Finding square root (using binary search)
 14. Lucas' Theorem
+15. Fermat Little Theorem
 
 And many more!!
