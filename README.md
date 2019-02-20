@@ -16,5 +16,6 @@ Some of the algorithms in this repository are :-
 11. Maximum Subarray Sum
 12. Prime Number (sieve of eratosthenes)
 13. Finding square root (using binary search)
+14. Lucas' Theorem
 
 And many more!!
