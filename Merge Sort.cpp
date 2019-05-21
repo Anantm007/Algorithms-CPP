@@ -26,8 +26,8 @@ void merge(int ar[],int s,int e)
 	while(j<=e)
 	temp[k++]=ar[j++];
 	
-	for(i=s;i<=e;i++)
-	ar[i]=temp[i];
+	 for(i=0;i<k;i++)
+	 ar[i]=temp[i];
 	
 }
 void merge_sort(int ar[],int s,int e)
